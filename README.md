@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ManeeshD07.github.io
 =======
 # Lightweight React Portfolio
