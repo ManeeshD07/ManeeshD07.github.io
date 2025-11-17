@@ -1,0 +1,114 @@
+.pill-nav {
+  --pill-bg: var(--surface);
+  --pill-text: var(--muted);
+  --pill-active: var(--text);
+  padding: 0.2rem;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--surface) 85%, transparent);
+  border: 1px solid var(--border);
+}
+
+.pill-nav-track {
+  position: relative;
+  display: flex;
+  gap: 0.25rem;
+  padding: 0.15rem;
+}
+
+.pill-nav-highlight {
+  position: absolute;
+  top: 0.15rem;
+  bottom: 0.15rem;
+  border-radius: 999px;
+  background: var(--text);
+  opacity: 0;
+  width: 0;
+  transform: translateX(0);
+  transition: transform 0.3s ease, width 0.3s ease, opacity 0.2s ease;
+}
+
+.pill-nav-link {
+  position: relative;
+  z-index: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.45rem 0.95rem;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--pill-text);
+  text-decoration: none;
+  transition: color 0.2s ease;
+  white-space: nowrap;
+}
+
+.pill-nav-link--logo {
+  padding: 0.25rem 0.55rem;
+}
+
+.pill-nav-logo {
+  width: 1.85rem;
+  height: 1.85rem;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--surface) 90%, transparent);
+  border: 1px solid color-mix(in srgb, var(--border) 80%, transparent);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  box-shadow: inset 0 1px 2px rgba(255, 255, 255, 0.35);
+}
+
+.pill-nav-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.pill-nav-link:hover {
+  color: var(--text);
+}
+
+.pill-nav-link.is-active {
+  color: var(--surface);
+}
+
+.pill-nav-custom {
+  background: transparent;
+  color: inherit;
+  text-transform: none;
+  letter-spacing: normal;
+  padding: 0.3rem 0.75rem;
+  gap: 0.35rem;
+  flex: 0 0 auto;
+}
+
+.pill-nav-custom > * {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 640px) {
+  .pill-nav {
+    width: 100%;
+    border-radius: 28px;
+  }
+
+  .pill-nav-track {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .pill-nav-link {
+    flex: 1;
+  }
+
+  .pill-nav-custom {
+    flex: 0 0 auto;
+  }
+}

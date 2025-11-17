@@ -1,0 +1,232 @@
+AnimatedContent — Wrapper that animates any children on scroll or mount with configurable direction, distance, duration and easing.
+  Variants: JS-CSS: @react-bits/AnimatedContent-JS-CSS | JS-TW: @react-bits/AnimatedContent-JS-TW | TS-CSS: @react-bits/AnimatedContent-TS-CSS | TS-TW: @react-bits/AnimatedContent-TS-TW
+AnimatedList — List items enter with staggered motion variants for polished reveals.
+  Variants: JS-CSS: @react-bits/AnimatedList-JS-CSS | JS-TW: @react-bits/AnimatedList-JS-TW | TS-CSS: @react-bits/AnimatedList-TS-CSS | TS-TW: @react-bits/AnimatedList-TS-TW
+ASCIIText — Renders text with an animated ASCII background for a retro feel.
+  Variants: JS-CSS: @react-bits/ASCIIText-JS-CSS | JS-TW: @react-bits/ASCIIText-JS-TW | TS-CSS: @react-bits/ASCIIText-TS-CSS | TS-TW: @react-bits/ASCIIText-TS-TW
+Aurora — Flowing aurora gradient background.
+  Variants: JS-CSS: @react-bits/Aurora-JS-CSS | JS-TW: @react-bits/Aurora-JS-TW | TS-CSS: @react-bits/Aurora-TS-CSS | TS-TW: @react-bits/Aurora-TS-TW
+Balatro — The balatro shader, fully customizalbe and interactive.
+  Variants: JS-CSS: @react-bits/Balatro-JS-CSS | JS-TW: @react-bits/Balatro-JS-TW | TS-CSS: @react-bits/Balatro-TS-CSS | TS-TW: @react-bits/Balatro-TS-TW
+Ballpit — Physics ball pit simulation with bouncing colorful spheres.
+  Variants: JS-CSS: @react-bits/Ballpit-JS-CSS | JS-TW: @react-bits/Ballpit-JS-TW | TS-CSS: @react-bits/Ballpit-TS-CSS | TS-TW: @react-bits/Ballpit-TS-TW
+Beams — Crossing animated ribbons with customizable properties.
+  Variants: JS-CSS: @react-bits/Beams-JS-CSS | JS-TW: @react-bits/Beams-JS-TW | TS-CSS: @react-bits/Beams-TS-CSS | TS-TW: @react-bits/Beams-TS-TW
+BlobCursor — Organic blob cursor that smoothly follows the pointer with inertia and elastic morphing.
+  Variants: JS-CSS: @react-bits/BlobCursor-JS-CSS | JS-TW: @react-bits/BlobCursor-JS-TW | TS-CSS: @react-bits/BlobCursor-TS-CSS | TS-TW: @react-bits/BlobCursor-TS-TW
+BlurText — Text starts blurred then crisply resolves for a soft-focus reveal effect.
+  Variants: JS-CSS: @react-bits/BlurText-JS-CSS | JS-TW: @react-bits/BlurText-JS-TW | TS-CSS: @react-bits/BlurText-TS-CSS | TS-TW: @react-bits/BlurText-TS-TW
+BounceCards — Cards bounce that bounce in on mount.
+  Variants: JS-CSS: @react-bits/BounceCards-JS-CSS | JS-TW: @react-bits/BounceCards-JS-TW | TS-CSS: @react-bits/BounceCards-TS-CSS | TS-TW: @react-bits/BounceCards-TS-TW
+BubbleMenu — Floating circular expanding menu with staggered item reveal.
+  Variants: JS-CSS: @react-bits/BubbleMenu-JS-CSS | JS-TW: @react-bits/BubbleMenu-JS-TW | TS-CSS: @react-bits/BubbleMenu-TS-CSS | TS-TW: @react-bits/BubbleMenu-TS-TW
+CardNav — Expandable navigation bar with card panels revealing nested links.
+  Variants: JS-CSS: @react-bits/CardNav-JS-CSS | JS-TW: @react-bits/CardNav-JS-TW | TS-CSS: @react-bits/CardNav-TS-CSS | TS-TW: @react-bits/CardNav-TS-TW
+CardSwap — Cards animate position swapping with smooth layout transitions.
+  Variants: JS-CSS: @react-bits/CardSwap-JS-CSS | JS-TW: @react-bits/CardSwap-JS-TW | TS-CSS: @react-bits/CardSwap-TS-CSS | TS-TW: @react-bits/CardSwap-TS-TW
+Carousel — Responsive carousel with touch gestures, looping and transitions.
+  Variants: JS-CSS: @react-bits/Carousel-JS-CSS | JS-TW: @react-bits/Carousel-JS-TW | TS-CSS: @react-bits/Carousel-TS-CSS | TS-TW: @react-bits/Carousel-TS-TW
+ChromaGrid — A responsive grid of grayscale tiles. Hovering the grid reaveals their colors.
+  Variants: JS-CSS: @react-bits/ChromaGrid-JS-CSS | JS-TW: @react-bits/ChromaGrid-JS-TW | TS-CSS: @react-bits/ChromaGrid-TS-CSS | TS-TW: @react-bits/ChromaGrid-TS-TW
+CircularGallery — Circular orbit gallery rotating images.
+  Variants: JS-CSS: @react-bits/CircularGallery-JS-CSS | JS-TW: @react-bits/CircularGallery-JS-TW | TS-CSS: @react-bits/CircularGallery-TS-CSS | TS-TW: @react-bits/CircularGallery-TS-TW
+CircularText — Layouts characters around a circle with optional rotation animation.
+  Variants: JS-CSS: @react-bits/CircularText-JS-CSS | JS-TW: @react-bits/CircularText-JS-TW | TS-CSS: @react-bits/CircularText-TS-CSS | TS-TW: @react-bits/CircularText-TS-TW
+ClickSpark — Creates particle spark bursts at click position.
+  Variants: JS-CSS: @react-bits/ClickSpark-JS-CSS | JS-TW: @react-bits/ClickSpark-JS-TW | TS-CSS: @react-bits/ClickSpark-TS-CSS | TS-TW: @react-bits/ClickSpark-TS-TW
+ColorBends — Vibrant color bends with smooth flowing animation.
+  Variants: JS-CSS: @react-bits/ColorBends-JS-CSS | JS-TW: @react-bits/ColorBends-JS-TW | TS-CSS: @react-bits/ColorBends-TS-CSS | TS-TW: @react-bits/ColorBends-TS-TW
+Counter — Flexible animated counter supporting increments + easing.
+  Variants: JS-CSS: @react-bits/Counter-JS-CSS | JS-TW: @react-bits/Counter-JS-TW | TS-CSS: @react-bits/Counter-TS-CSS | TS-TW: @react-bits/Counter-TS-TW
+CountUp — Animated number counter supporting formatting and decimals.
+  Variants: JS-CSS: @react-bits/CountUp-JS-CSS | JS-TW: @react-bits/CountUp-JS-TW | TS-CSS: @react-bits/CountUp-TS-CSS | TS-TW: @react-bits/CountUp-TS-TW
+Crosshair — Custom crosshair cursor with tracking, and link hover effects.
+  Variants: JS-CSS: @react-bits/Crosshair-JS-CSS | JS-TW: @react-bits/Crosshair-JS-TW | TS-CSS: @react-bits/Crosshair-TS-CSS | TS-TW: @react-bits/Crosshair-TS-TW
+Cubes — 3D rotating cube cluster. Supports auto-rotation or hover interaction.
+  Variants: JS-CSS: @react-bits/Cubes-JS-CSS | JS-TW: @react-bits/Cubes-JS-TW | TS-CSS: @react-bits/Cubes-TS-CSS | TS-TW: @react-bits/Cubes-TS-TW
+CurvedLoop — Flowing looping text path along a customizable curve with drag interaction.
+  Variants: JS-CSS: @react-bits/CurvedLoop-JS-CSS | JS-TW: @react-bits/CurvedLoop-JS-TW | TS-CSS: @react-bits/CurvedLoop-TS-CSS | TS-TW: @react-bits/CurvedLoop-TS-TW
+DarkVeil — Subtle dark background with a smooth animation and postprocessing.
+  Variants: JS-CSS: @react-bits/DarkVeil-JS-CSS | JS-TW: @react-bits/DarkVeil-JS-TW | TS-CSS: @react-bits/DarkVeil-TS-CSS | TS-TW: @react-bits/DarkVeil-TS-TW
+DecayCard — Hover parallax effect that disintegrates the content of a card.
+  Variants: JS-CSS: @react-bits/DecayCard-JS-CSS | JS-TW: @react-bits/DecayCard-JS-TW | TS-CSS: @react-bits/DecayCard-TS-CSS | TS-TW: @react-bits/DecayCard-TS-TW
+DecryptedText — Hacker-style decryption cycling random glyphs until resolving to real text.
+  Variants: JS-CSS: @react-bits/DecryptedText-JS-CSS | JS-TW: @react-bits/DecryptedText-JS-TW | TS-CSS: @react-bits/DecryptedText-TS-CSS | TS-TW: @react-bits/DecryptedText-TS-TW
+Dither — Retro dithered noise shader background.
+  Variants: JS-CSS: @react-bits/Dither-JS-CSS | JS-TW: @react-bits/Dither-JS-TW | TS-CSS: @react-bits/Dither-TS-CSS | TS-TW: @react-bits/Dither-TS-TW
+Dock — macOS style magnifying dock with proximity scaling of icons.
+  Variants: JS-CSS: @react-bits/Dock-JS-CSS | JS-TW: @react-bits/Dock-JS-TW | TS-CSS: @react-bits/Dock-TS-CSS | TS-TW: @react-bits/Dock-TS-TW
+DomeGallery — Immersive 3D dome gallery projecting images on a hemispheric surface.
+  Variants: JS-CSS: @react-bits/DomeGallery-JS-CSS | JS-TW: @react-bits/DomeGallery-JS-TW | TS-CSS: @react-bits/DomeGallery-TS-CSS | TS-TW: @react-bits/DomeGallery-TS-TW
+DotGrid — Animated dot grid with cursor interactions.
+  Variants: JS-CSS: @react-bits/DotGrid-JS-CSS | JS-TW: @react-bits/DotGrid-JS-TW | TS-CSS: @react-bits/DotGrid-TS-CSS | TS-TW: @react-bits/DotGrid-TS-TW
+ElasticSlider — Slider handle stretches elastically then snaps with spring physics.
+  Variants: JS-CSS: @react-bits/ElasticSlider-JS-CSS | JS-TW: @react-bits/ElasticSlider-JS-TW | TS-CSS: @react-bits/ElasticSlider-TS-CSS | TS-TW: @react-bits/ElasticSlider-TS-TW
+ElectricBorder — Jittery electric energy border with animated arcs, glow and adjustable intensity.
+  Variants: JS-CSS: @react-bits/ElectricBorder-JS-CSS | JS-TW: @react-bits/ElectricBorder-JS-TW | TS-CSS: @react-bits/ElectricBorder-TS-CSS | TS-TW: @react-bits/ElectricBorder-TS-TW
+FadeContent — Simple directional fade / slide entrance wrapper with threshold-based activation.
+  Variants: JS-CSS: @react-bits/FadeContent-JS-CSS | JS-TW: @react-bits/FadeContent-JS-TW | TS-CSS: @react-bits/FadeContent-TS-CSS | TS-TW: @react-bits/FadeContent-TS-TW
+FallingText — Characters fall with gravity + bounce creating a playful entrance.
+  Variants: JS-CSS: @react-bits/FallingText-JS-CSS | JS-TW: @react-bits/FallingText-JS-TW | TS-CSS: @react-bits/FallingText-TS-CSS | TS-TW: @react-bits/FallingText-TS-TW
+FaultyTerminal — Terminal CRT scanline squares effect with flicker + noise.
+  Variants: JS-CSS: @react-bits/FaultyTerminal-JS-CSS | JS-TW: @react-bits/FaultyTerminal-JS-TW | TS-CSS: @react-bits/FaultyTerminal-TS-CSS | TS-TW: @react-bits/FaultyTerminal-TS-TW
+FloatingLines — 3D floating lines that react to cursor movement.
+  Variants: JS-CSS: @react-bits/FloatingLines-JS-CSS | JS-TW: @react-bits/FloatingLines-JS-TW | TS-CSS: @react-bits/FloatingLines-TS-CSS | TS-TW: @react-bits/FloatingLines-TS-TW
+FlowingMenu — Liquid flowing active indicator glides between menu items.
+  Variants: JS-CSS: @react-bits/FlowingMenu-JS-CSS | JS-TW: @react-bits/FlowingMenu-JS-TW | TS-CSS: @react-bits/FlowingMenu-TS-CSS | TS-TW: @react-bits/FlowingMenu-TS-TW
+FluidGlass — Glassmorphism container with animated liquid distortion refraction.
+  Variants: JS-CSS: @react-bits/FluidGlass-JS-CSS | JS-TW: @react-bits/FluidGlass-JS-TW | TS-CSS: @react-bits/FluidGlass-TS-CSS | TS-TW: @react-bits/FluidGlass-TS-TW
+FlyingPosters — 3D posters rotate on scroll infinitely.
+  Variants: JS-CSS: @react-bits/FlyingPosters-JS-CSS | JS-TW: @react-bits/FlyingPosters-JS-TW | TS-CSS: @react-bits/FlyingPosters-TS-CSS | TS-TW: @react-bits/FlyingPosters-TS-TW
+Folder — Interactive folder opens to reveal nested content smooth motion.
+  Variants: JS-CSS: @react-bits/Folder-JS-CSS | JS-TW: @react-bits/Folder-JS-TW | TS-CSS: @react-bits/Folder-TS-CSS | TS-TW: @react-bits/Folder-TS-TW
+FuzzyText — Vibrating fuzzy text with controllable hover intensity.
+  Variants: JS-CSS: @react-bits/FuzzyText-JS-CSS | JS-TW: @react-bits/FuzzyText-JS-TW | TS-CSS: @react-bits/FuzzyText-TS-CSS | TS-TW: @react-bits/FuzzyText-TS-TW
+Galaxy — Parallax realistic starfield with pointer interactions.
+  Variants: JS-CSS: @react-bits/Galaxy-JS-CSS | JS-TW: @react-bits/Galaxy-JS-TW | TS-CSS: @react-bits/Galaxy-TS-CSS | TS-TW: @react-bits/Galaxy-TS-TW
+GhostCursor — Semi-transparent ghost cursor that smoothly follows the real cursor with a trailing effect.
+  Variants: JS-CSS: @react-bits/GhostCursor-JS-CSS | JS-TW: @react-bits/GhostCursor-JS-TW | TS-CSS: @react-bits/GhostCursor-TS-CSS | TS-TW: @react-bits/GhostCursor-TS-TW
+GlareHover — Adds a realistic moving glare highlight on hover over any element.
+  Variants: JS-CSS: @react-bits/GlareHover-JS-CSS | JS-TW: @react-bits/GlareHover-JS-TW | TS-CSS: @react-bits/GlareHover-TS-CSS | TS-TW: @react-bits/GlareHover-TS-TW
+GlassIcons — Icon set styled with frosted glass blur.
+  Variants: JS-CSS: @react-bits/GlassIcons-JS-CSS | JS-TW: @react-bits/GlassIcons-JS-TW | TS-CSS: @react-bits/GlassIcons-TS-CSS | TS-TW: @react-bits/GlassIcons-TS-TW
+GlassSurface — Advanced Apple-style glass surface with real-time distortion + lighting.
+  Variants: JS-CSS: @react-bits/GlassSurface-JS-CSS | JS-TW: @react-bits/GlassSurface-JS-TW | TS-CSS: @react-bits/GlassSurface-TS-CSS | TS-TW: @react-bits/GlassSurface-TS-TW
+GlitchText — RGB split and distortion glitch effect with jitter effects.
+  Variants: JS-CSS: @react-bits/GlitchText-JS-CSS | JS-TW: @react-bits/GlitchText-JS-TW | TS-CSS: @react-bits/GlitchText-TS-CSS | TS-TW: @react-bits/GlitchText-TS-TW
+GooeyNav — Navigation indicator morphs with gooey blob transitions between items.
+  Variants: JS-CSS: @react-bits/GooeyNav-JS-CSS | JS-TW: @react-bits/GooeyNav-JS-TW | TS-CSS: @react-bits/GooeyNav-TS-CSS | TS-TW: @react-bits/GooeyNav-TS-TW
+GradientBlinds — Layered gradient blinds with spotlight and noise distortion.
+  Variants: JS-CSS: @react-bits/GradientBlinds-JS-CSS | JS-TW: @react-bits/GradientBlinds-JS-TW | TS-CSS: @react-bits/GradientBlinds-TS-CSS | TS-TW: @react-bits/GradientBlinds-TS-TW
+GradientText — Animated gradient sweep across live text with speed and color control.
+  Variants: JS-CSS: @react-bits/GradientText-JS-CSS | JS-TW: @react-bits/GradientText-JS-TW | TS-CSS: @react-bits/GradientText-TS-CSS | TS-TW: @react-bits/GradientText-TS-TW
+GradualBlur — Progressively un-blurs content based on scroll or trigger creating a cinematic reveal.
+  Variants: JS-CSS: @react-bits/GradualBlur-JS-CSS | JS-TW: @react-bits/GradualBlur-JS-TW | TS-CSS: @react-bits/GradualBlur-TS-CSS | TS-TW: @react-bits/GradualBlur-TS-TW
+GridDistortion — Warped grid mesh distorts smoothly reacting to cursor.
+  Variants: JS-CSS: @react-bits/GridDistortion-JS-CSS | JS-TW: @react-bits/GridDistortion-JS-TW | TS-CSS: @react-bits/GridDistortion-TS-CSS | TS-TW: @react-bits/GridDistortion-TS-TW
+GridMotion — Perspective moving grid lines based on cusror position.
+  Variants: JS-CSS: @react-bits/GridMotion-JS-CSS | JS-TW: @react-bits/GridMotion-JS-TW | TS-CSS: @react-bits/GridMotion-TS-CSS | TS-TW: @react-bits/GridMotion-TS-TW
+GridScan — Animated grid room 3D scan effect and cool interactions.
+  Variants: JS-CSS: @react-bits/GridScan-JS-CSS | JS-TW: @react-bits/GridScan-JS-TW | TS-CSS: @react-bits/GridScan-TS-CSS | TS-TW: @react-bits/GridScan-TS-TW
+Hyperspeed — Animated lines continuously moving to simulate hyperspace travel on click hold.
+  Variants: JS-CSS: @react-bits/Hyperspeed-JS-CSS | JS-TW: @react-bits/Hyperspeed-JS-TW | TS-CSS: @react-bits/Hyperspeed-TS-CSS | TS-TW: @react-bits/Hyperspeed-TS-TW
+ImageTrail — Cursor-based image trail with several built-in variants.
+  Variants: JS-CSS: @react-bits/ImageTrail-JS-CSS | JS-TW: @react-bits/ImageTrail-JS-TW | TS-CSS: @react-bits/ImageTrail-TS-CSS | TS-TW: @react-bits/ImageTrail-TS-TW
+InfiniteMenu — Horizontally looping menu effect that scrolls endlessly with seamless wrap.
+  Variants: JS-CSS: @react-bits/InfiniteMenu-JS-CSS | JS-TW: @react-bits/InfiniteMenu-JS-TW | TS-CSS: @react-bits/InfiniteMenu-TS-CSS | TS-TW: @react-bits/InfiniteMenu-TS-TW
+Iridescence — Slick iridescent shader with shifting waves.
+  Variants: JS-CSS: @react-bits/Iridescence-JS-CSS | JS-TW: @react-bits/Iridescence-JS-TW | TS-CSS: @react-bits/Iridescence-TS-CSS | TS-TW: @react-bits/Iridescence-TS-TW
+Lanyard — Swinging 3D lanyard / badge card with realistic inertial motion.
+  Variants: JS-CSS: @react-bits/Lanyard-JS-CSS | JS-TW: @react-bits/Lanyard-JS-TW | TS-CSS: @react-bits/Lanyard-TS-CSS | TS-TW: @react-bits/Lanyard-TS-TW
+LaserFlow — Dynamic laser light that flows onto a surface, customizable effect.
+  Variants: JS-CSS: @react-bits/LaserFlow-JS-CSS | JS-TW: @react-bits/LaserFlow-JS-TW | TS-CSS: @react-bits/LaserFlow-TS-CSS | TS-TW: @react-bits/LaserFlow-TS-TW
+LetterGlitch — Matrix style letter animation.
+  Variants: JS-CSS: @react-bits/LetterGlitch-JS-CSS | JS-TW: @react-bits/LetterGlitch-JS-TW | TS-CSS: @react-bits/LetterGlitch-TS-CSS | TS-TW: @react-bits/LetterGlitch-TS-TW
+Lightning — Procedural lightning bolts with branching and glow flicker.
+  Variants: JS-CSS: @react-bits/Lightning-JS-CSS | JS-TW: @react-bits/Lightning-JS-TW | TS-CSS: @react-bits/Lightning-TS-CSS | TS-TW: @react-bits/Lightning-TS-TW
+LightRays — Volumetric light rays/beams with customizable direction.
+  Variants: JS-CSS: @react-bits/LightRays-JS-CSS | JS-TW: @react-bits/LightRays-JS-TW | TS-CSS: @react-bits/LightRays-TS-CSS | TS-TW: @react-bits/LightRays-TS-TW
+LiquidChrome — Liquid metallic chrome shader with flowing reflective surface.
+  Variants: JS-CSS: @react-bits/LiquidChrome-JS-CSS | JS-TW: @react-bits/LiquidChrome-JS-TW | TS-CSS: @react-bits/LiquidChrome-TS-CSS | TS-TW: @react-bits/LiquidChrome-TS-TW
+LiquidEther — Interactive liquid shader with flowing distortion and customizable colors.
+  Variants: JS-CSS: @react-bits/LiquidEther-JS-CSS | JS-TW: @react-bits/LiquidEther-JS-TW | TS-CSS: @react-bits/LiquidEther-TS-CSS | TS-TW: @react-bits/LiquidEther-TS-TW
+LogoLoop — Continuously looping marquee of brand or tech logos with seamless repeat and hover pause.
+  Variants: JS-CSS: @react-bits/LogoLoop-JS-CSS | JS-TW: @react-bits/LogoLoop-JS-TW | TS-CSS: @react-bits/LogoLoop-TS-CSS | TS-TW: @react-bits/LogoLoop-TS-TW
+MagicBento — Interactive bento grid tiles expand + animate with various options.
+  Variants: JS-CSS: @react-bits/MagicBento-JS-CSS | JS-TW: @react-bits/MagicBento-JS-TW | TS-CSS: @react-bits/MagicBento-TS-CSS | TS-TW: @react-bits/MagicBento-TS-TW
+Magnet — Elements magnetically ease toward the cursor then settle back with spring physics.
+  Variants: JS-CSS: @react-bits/Magnet-JS-CSS | JS-TW: @react-bits/Magnet-JS-TW | TS-CSS: @react-bits/Magnet-TS-CSS | TS-TW: @react-bits/Magnet-TS-TW
+MagnetLines — Animated field lines bend toward the cursor.
+  Variants: JS-CSS: @react-bits/MagnetLines-JS-CSS | JS-TW: @react-bits/MagnetLines-JS-TW | TS-CSS: @react-bits/MagnetLines-TS-CSS | TS-TW: @react-bits/MagnetLines-TS-TW
+Masonry — Responsive masonry layout with animated reflow + gaps optimization.
+  Variants: JS-CSS: @react-bits/Masonry-JS-CSS | JS-TW: @react-bits/Masonry-JS-TW | TS-CSS: @react-bits/Masonry-TS-CSS | TS-TW: @react-bits/Masonry-TS-TW
+MetaBalls — Liquid metaball blobs that merge and separate with smooth implicit surface animation.
+  Variants: JS-CSS: @react-bits/MetaBalls-JS-CSS | JS-TW: @react-bits/MetaBalls-JS-TW | TS-CSS: @react-bits/MetaBalls-TS-CSS | TS-TW: @react-bits/MetaBalls-TS-TW
+MetallicPaint — Liquid metallic paint shader which can be applied to SVG elements.
+  Variants: JS-CSS: @react-bits/MetallicPaint-JS-CSS | JS-TW: @react-bits/MetallicPaint-JS-TW | TS-CSS: @react-bits/MetallicPaint-TS-CSS | TS-TW: @react-bits/MetallicPaint-TS-TW
+ModelViewer — Three.js model viewer with orbit controls and lighting presets.
+  Variants: JS-CSS: @react-bits/ModelViewer-JS-CSS | JS-TW: @react-bits/ModelViewer-JS-TW | TS-CSS: @react-bits/ModelViewer-TS-CSS | TS-TW: @react-bits/ModelViewer-TS-TW
+Noise — Animated film grain / noise overlay adding subtle texture and motion.
+  Variants: JS-CSS: @react-bits/Noise-JS-CSS | JS-TW: @react-bits/Noise-JS-TW | TS-CSS: @react-bits/Noise-TS-CSS | TS-TW: @react-bits/Noise-TS-TW
+Orb — Floating energy orb with customizable hover effect.
+  Variants: JS-CSS: @react-bits/Orb-JS-CSS | JS-TW: @react-bits/Orb-JS-TW | TS-CSS: @react-bits/Orb-TS-CSS | TS-TW: @react-bits/Orb-TS-TW
+Particles — Configurable particle system.
+  Variants: JS-CSS: @react-bits/Particles-JS-CSS | JS-TW: @react-bits/Particles-JS-TW | TS-CSS: @react-bits/Particles-TS-CSS | TS-TW: @react-bits/Particles-TS-TW
+PillNav — Minimal pill nav with sliding active highlight + smooth easing.
+  Variants: JS-CSS: @react-bits/PillNav-JS-CSS | JS-TW: @react-bits/PillNav-JS-TW | TS-CSS: @react-bits/PillNav-TS-CSS | TS-TW: @react-bits/PillNav-TS-TW
+PixelBlast — Exploding pixel particle bursts with optional liquid postprocessing.
+  Variants: JS-CSS: @react-bits/PixelBlast-JS-CSS | JS-TW: @react-bits/PixelBlast-JS-TW | TS-CSS: @react-bits/PixelBlast-TS-CSS | TS-TW: @react-bits/PixelBlast-TS-TW
+PixelCard — Card content revealed through pixel expansion transition.
+  Variants: JS-CSS: @react-bits/PixelCard-JS-CSS | JS-TW: @react-bits/PixelCard-JS-TW | TS-CSS: @react-bits/PixelCard-TS-CSS | TS-TW: @react-bits/PixelCard-TS-TW
+PixelTrail — Pixelated cursor trail emitting fading squares with retro digital feel.
+  Variants: JS-CSS: @react-bits/PixelTrail-JS-CSS | JS-TW: @react-bits/PixelTrail-JS-TW | TS-CSS: @react-bits/PixelTrail-TS-CSS | TS-TW: @react-bits/PixelTrail-TS-TW
+PixelTransition — Pixel dissolve transition for content reveal on hover.
+  Variants: JS-CSS: @react-bits/PixelTransition-JS-CSS | JS-TW: @react-bits/PixelTransition-JS-TW | TS-CSS: @react-bits/PixelTransition-TS-CSS | TS-TW: @react-bits/PixelTransition-TS-TW
+Plasma — Organic plasma gradients swirl + morph with smooth turbulence.
+  Variants: JS-CSS: @react-bits/Plasma-JS-CSS | JS-TW: @react-bits/Plasma-JS-TW | TS-CSS: @react-bits/Plasma-TS-CSS | TS-TW: @react-bits/Plasma-TS-TW
+Prism — Rotating prism with configurable intensity, size, and colors.
+  Variants: JS-CSS: @react-bits/Prism-JS-CSS | JS-TW: @react-bits/Prism-JS-TW | TS-CSS: @react-bits/Prism-TS-CSS | TS-TW: @react-bits/Prism-TS-TW
+PrismaticBurst — Burst of light rays with controllable color, distortion, amount.
+  Variants: JS-CSS: @react-bits/PrismaticBurst-JS-CSS | JS-TW: @react-bits/PrismaticBurst-JS-TW | TS-CSS: @react-bits/PrismaticBurst-TS-CSS | TS-TW: @react-bits/PrismaticBurst-TS-TW
+ProfileCard — Animated profile card glare with 3D hover effect.
+  Variants: JS-CSS: @react-bits/ProfileCard-JS-CSS | TS-CSS: @react-bits/ProfileCard-TS-CSS
+Ribbons — Flowing responsive ribbons/cursor trail driven by physics and pointer motion.
+  Variants: JS-CSS: @react-bits/Ribbons-JS-CSS | JS-TW: @react-bits/Ribbons-JS-TW | TS-CSS: @react-bits/Ribbons-TS-CSS | TS-TW: @react-bits/Ribbons-TS-TW
+RippleGrid — A grid that continuously animates with a ripple effect.
+  Variants: JS-CSS: @react-bits/RippleGrid-JS-CSS | JS-TW: @react-bits/RippleGrid-JS-TW | TS-CSS: @react-bits/RippleGrid-TS-CSS | TS-TW: @react-bits/RippleGrid-TS-TW
+RotatingText — Cycles through multiple phrases with 3D rotate / flip transitions.
+  Variants: JS-CSS: @react-bits/RotatingText-JS-CSS | JS-TW: @react-bits/RotatingText-JS-TW | TS-CSS: @react-bits/RotatingText-TS-CSS | TS-TW: @react-bits/RotatingText-TS-TW
+ScrambledText — Detects cursor position and applies a distortion effect to text.
+  Variants: JS-CSS: @react-bits/ScrambledText-JS-CSS | JS-TW: @react-bits/ScrambledText-JS-TW | TS-CSS: @react-bits/ScrambledText-TS-CSS | TS-TW: @react-bits/ScrambledText-TS-TW
+ScrollFloat — Text gently floats / parallax shifts on scroll.
+  Variants: JS-CSS: @react-bits/ScrollFloat-JS-CSS | JS-TW: @react-bits/ScrollFloat-JS-TW | TS-CSS: @react-bits/ScrollFloat-TS-CSS | TS-TW: @react-bits/ScrollFloat-TS-TW
+ScrollReveal — Text gently unblurs and reveals on scroll.
+  Variants: JS-CSS: @react-bits/ScrollReveal-JS-CSS | JS-TW: @react-bits/ScrollReveal-JS-TW | TS-CSS: @react-bits/ScrollReveal-TS-CSS | TS-TW: @react-bits/ScrollReveal-TS-TW
+ScrollStack — Overlapping card stack reveals on scroll with depth layering.
+  Variants: JS-CSS: @react-bits/ScrollStack-JS-CSS | JS-TW: @react-bits/ScrollStack-JS-TW | TS-CSS: @react-bits/ScrollStack-TS-CSS | TS-TW: @react-bits/ScrollStack-TS-TW
+ScrollVelocity — Text marquee animatio - speed and distortion scale with user's scroll velocity.
+  Variants: JS-CSS: @react-bits/ScrollVelocity-JS-CSS | JS-TW: @react-bits/ScrollVelocity-JS-TW | TS-CSS: @react-bits/ScrollVelocity-TS-CSS | TS-TW: @react-bits/ScrollVelocity-TS-TW
+ShapeBlur — Morphing blurred geometric shape. The effect occurs on hover.
+  Variants: JS-CSS: @react-bits/ShapeBlur-JS-CSS | JS-TW: @react-bits/ShapeBlur-JS-TW | TS-CSS: @react-bits/ShapeBlur-TS-CSS | TS-TW: @react-bits/ShapeBlur-TS-TW
+ShinyText — Metallic sheen sweeps across text producing a reflective highlight.
+  Variants: JS-CSS: @react-bits/ShinyText-JS-CSS | JS-TW: @react-bits/ShinyText-JS-TW | TS-CSS: @react-bits/ShinyText-TS-CSS | TS-TW: @react-bits/ShinyText-TS-TW
+Shuffle — Animated text reveal where characters shuffle before settling.
+  Variants: JS-CSS: @react-bits/Shuffle-JS-CSS | JS-TW: @react-bits/Shuffle-JS-TW | TS-CSS: @react-bits/Shuffle-TS-CSS | TS-TW: @react-bits/Shuffle-TS-TW
+Silk — Smooth waves background with soft lighting.
+  Variants: JS-CSS: @react-bits/Silk-JS-CSS | JS-TW: @react-bits/Silk-JS-TW | TS-CSS: @react-bits/Silk-TS-CSS | TS-TW: @react-bits/Silk-TS-TW
+SplashCursor — Liquid splash burst at cursor with curling ripples and waves.
+  Variants: JS-CSS: @react-bits/SplashCursor-JS-CSS | JS-TW: @react-bits/SplashCursor-JS-TW | TS-CSS: @react-bits/SplashCursor-TS-CSS | TS-TW: @react-bits/SplashCursor-TS-TW
+SplitText — Splits text into characters / words for staggered entrance animation.
+  Variants: JS-CSS: @react-bits/SplitText-JS-CSS | JS-TW: @react-bits/SplitText-JS-TW | TS-CSS: @react-bits/SplitText-TS-CSS | TS-TW: @react-bits/SplitText-TS-TW
+SpotlightCard — Dynamic spotlight follows cursor casting gradient illumination.
+  Variants: JS-CSS: @react-bits/SpotlightCard-JS-CSS | JS-TW: @react-bits/SpotlightCard-JS-TW | TS-CSS: @react-bits/SpotlightCard-TS-CSS | TS-TW: @react-bits/SpotlightCard-TS-TW
+Squares — Animated squares with scaling + direction customization.
+  Variants: JS-CSS: @react-bits/Squares-JS-CSS | JS-TW: @react-bits/Squares-JS-TW | TS-CSS: @react-bits/Squares-TS-CSS | TS-TW: @react-bits/Squares-TS-TW
+Stack — Layered stack with swipe animations and smooth transitions.
+  Variants: JS-CSS: @react-bits/Stack-JS-CSS | JS-TW: @react-bits/Stack-JS-TW | TS-CSS: @react-bits/Stack-TS-CSS | TS-TW: @react-bits/Stack-TS-TW
+StaggeredMenu — Menu with staggered item animations and smooth transitions on open/close.
+  Variants: JS-CSS: @react-bits/StaggeredMenu-JS-CSS | JS-TW: @react-bits/StaggeredMenu-JS-TW | TS-CSS: @react-bits/StaggeredMenu-TS-CSS | TS-TW: @react-bits/StaggeredMenu-TS-TW
+StarBorder — Animated star / sparkle border orbiting content with twinkle pulses.
+  Variants: JS-CSS: @react-bits/StarBorder-JS-CSS | JS-TW: @react-bits/StarBorder-JS-TW | TS-CSS: @react-bits/StarBorder-TS-CSS | TS-TW: @react-bits/StarBorder-TS-TW
+Stepper — Animated multi-step progress indicator with active state transitions.
+  Variants: JS-CSS: @react-bits/Stepper-JS-CSS | JS-TW: @react-bits/Stepper-JS-TW | TS-CSS: @react-bits/Stepper-TS-CSS | TS-TW: @react-bits/Stepper-TS-TW
+StickerPeel — Sticker corner lift + peel interaction using 3D transform and shadow depth.
+  Variants: JS-CSS: @react-bits/StickerPeel-JS-CSS | JS-TW: @react-bits/StickerPeel-JS-TW | TS-CSS: @react-bits/StickerPeel-TS-CSS | TS-TW: @react-bits/StickerPeel-TS-TW
+TargetCursor — A cursor follow animation with 4 corners that lock onto targets.
+  Variants: JS-CSS: @react-bits/TargetCursor-JS-CSS | JS-TW: @react-bits/TargetCursor-JS-TW | TS-CSS: @react-bits/TargetCursor-TS-CSS | TS-TW: @react-bits/TargetCursor-TS-TW
+TextCursor — Make any text element follow your cursor, leaving a trail of copies behind it.
+  Variants: JS-CSS: @react-bits/TextCursor-JS-CSS | JS-TW: @react-bits/TextCursor-JS-TW | TS-CSS: @react-bits/TextCursor-TS-CSS | TS-TW: @react-bits/TextCursor-TS-TW
+TextPressure — Characters scale / warp interactively based on pointer pressure zone.
+  Variants: JS-CSS: @react-bits/TextPressure-JS-CSS | JS-TW: @react-bits/TextPressure-JS-TW | TS-CSS: @react-bits/TextPressure-TS-CSS | TS-TW: @react-bits/TextPressure-TS-TW
+TextType — Typewriter effect with blinking cursor and adjustable typing cadence.
+  Variants: JS-CSS: @react-bits/TextType-JS-CSS | JS-TW: @react-bits/TextType-JS-TW | TS-CSS: @react-bits/TextType-TS-CSS | TS-TW: @react-bits/TextType-TS-TW
+Threads — Animated pattern of lines forming a fabric-like motion.
+  Variants: JS-CSS: @react-bits/Threads-JS-CSS | JS-TW: @react-bits/Threads-JS-TW | TS-CSS: @react-bits/Threads-TS-CSS | TS-TW: @react-bits/Threads-TS-TW
+TiltedCard — 3D perspective tilt card reacting to pointer.
+  Variants: JS-CSS: @react-bits/TiltedCard-JS-CSS | JS-TW: @react-bits/TiltedCard-JS-TW | TS-CSS: @react-bits/TiltedCard-TS-CSS | TS-TW: @react-bits/TiltedCard-TS-TW
+TrueFocus — Applies dynamic blur / clarity based over a series of words in order.
+  Variants: JS-CSS: @react-bits/TrueFocus-JS-CSS | JS-TW: @react-bits/TrueFocus-JS-TW | TS-CSS: @react-bits/TrueFocus-TS-CSS | TS-TW: @react-bits/TrueFocus-TS-TW
+VariableProximity — Letter styling changes continuously with pointer distance mapping.
+  Variants: JS-CSS: @react-bits/VariableProximity-JS-CSS | JS-TW: @react-bits/VariableProximity-JS-TW | TS-CSS: @react-bits/VariableProximity-TS-CSS | TS-TW: @react-bits/VariableProximity-TS-TW
+Waves — Layered lines that form smooth wave patterns with animation.
+  Variants: JS-CSS: @react-bits/Waves-JS-CSS | JS-TW: @react-bits/Waves-JS-TW | TS-CSS: @react-bits/Waves-TS-CSS | TS-TW: @react-bits/Waves-TS-TW

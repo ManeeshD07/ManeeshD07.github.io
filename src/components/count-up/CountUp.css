@@ -1,0 +1,16 @@
+.count-up {
+  font-weight: 700;
+  font-size: clamp(2rem, 4vw, 3rem);
+  line-height: 1;
+  color: var(--text);
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.2rem;
+}
+
+.count-up__value {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  min-width: 1ch;
+}
