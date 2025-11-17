@@ -1,5 +1,5 @@
 # ManeeshD07.github.io
-=======
+
 # Lightweight React Portfolio
 
 This project is a minimal-yet-polished React + Vite starter tuned for personal portfolios. Content lives in one file, the layout leans on utility-style CSS, and the structure is intentionally simple so you can paste in paragraphs, links, and photography without wiring up a CMS first.
@@ -54,4 +54,3 @@ This workspace is already wired to an MCP server so it can be re-used in new ses
 - Invocation: `npx shadcn@latest mcp`
 
 Whenever you open a fresh session, use the same config file (or copy this section) so the Codex CLI knows to spin up the `shadcn` MCP server and expose its resources.
->>>>>>> master
