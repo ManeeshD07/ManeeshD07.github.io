@@ -92,11 +92,11 @@ export const contact = {
 
 export const gallery = [
   {
-    alt: 'Maneesh collaborating on a full-stack build',
+    alt: 'Full Stack User Interface Design',
     url: WebDeveloperPic1,
   },
   {
-    alt: 'Code review and UX planning session',
+    alt: 'Full Stack User Interface Design 2',
     url: WebDeveloperPic2,
   },
 ];
